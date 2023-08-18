@@ -1,4 +1,4 @@
-# Crop_Recommendation_System
+# Crop Recommendation System
 
 ## To run flask application
 python app.py
